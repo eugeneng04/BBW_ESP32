@@ -1,0 +1,7 @@
+/Users/eugeneng/Documents/PlatformIO/Projects/esp32 test/build/CMakeFiles/unity.dir
+/Users/eugeneng/Documents/PlatformIO/Projects/esp32 test/build/CMakeFiles/edit_cache.dir
+/Users/eugeneng/Documents/PlatformIO/Projects/esp32 test/build/CMakeFiles/rebuild_cache.dir
+/Users/eugeneng/Documents/PlatformIO/Projects/esp32 test/build/CMakeFiles/list_install_components.dir
+/Users/eugeneng/Documents/PlatformIO/Projects/esp32 test/build/CMakeFiles/install.dir
+/Users/eugeneng/Documents/PlatformIO/Projects/esp32 test/build/CMakeFiles/install/local.dir
+/Users/eugeneng/Documents/PlatformIO/Projects/esp32 test/build/CMakeFiles/install/strip.dir

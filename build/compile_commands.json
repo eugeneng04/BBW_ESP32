@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/Users/eugeneng/Documents/PlatformIO/Projects/esp32 test/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc  -I\"/Users/eugeneng/Documents/PlatformIO/Projects/esp32 test/.pio/libdeps/adafruit_feather_esp32_v2/Unity/src\" -I\"/Users/eugeneng/Documents/PlatformIO/Projects/esp32 test/build\" -g -std=c11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -o CMakeFiles/unity.dir/src/unity.c.o -c \"/Users/eugeneng/Documents/PlatformIO/Projects/esp32 test/.pio/libdeps/adafruit_feather_esp32_v2/Unity/src/unity.c\"",
+  "file": "/Users/eugeneng/Documents/PlatformIO/Projects/esp32 test/.pio/libdeps/adafruit_feather_esp32_v2/Unity/src/unity.c",
+  "output": "CMakeFiles/unity.dir/src/unity.c.o"
+}
+]
